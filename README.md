@@ -46,4 +46,6 @@ THIS ANALYSIS HIGHLIGHTS **TOP-PERFORMING REGIONS, CATEGORIES, AND PRODUCTS** WH
 THE DASHBOARD PROVIDES ACTIONABLE INSIGHTS THAT CAN HELP IN **MARKETING STRATEGY, INVENTORY MANAGEMENT, AND PROFIT OPTIMIZATION**.  
 
 ## OUTPUT
+<img width="1641" height="791" alt="Image" src="https://github.com/user-attachments/assets/629cb667-2723-4e3a-9c4f-49eb8a26ca3b" />
+<img width="1236" height="692" alt="Image" src="https://github.com/user-attachments/assets/e3a9b54f-8168-404f-8ab6-1e1ef356987e" />
 
